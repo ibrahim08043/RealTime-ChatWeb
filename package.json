@@ -4,14 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-  "start": "node server.js",
-  "build": "react-scripts build"
+    "start": "node server.js",
+    "build": "react-scripts build"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
+    "react-scripts": "^5.0.1",
     "socket.io": "^2.3.0"
   },
   "devDependencies": {
